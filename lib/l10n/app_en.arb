@@ -1,0 +1,20 @@
+{
+   
+    "login":"Login",
+    "emailHintText":"Enter your email",
+    "passwordHintText":"Enter your password",
+    "submit":"Submit",
+    "emptyEmail":"Please enter email",
+    "invalidEmail":"Please enter valid email",
+    "emptyPassword":"Please enter password",
+    "passwordShouldContainSixCharacters":"Password must be more than 6 characters",
+    "loginSuccess":"Logged in successfully",
+    "welcome":"Welcome",
+    "topRated":"Top Rated",
+    "playingNow":"Playing now",
+    "upcoming":"Upcoming",
+    "popular":"Popular",
+    "settings":"Settings",
+    "changeLanguage":"Change app language",
+    "theme":"App theme"
+}

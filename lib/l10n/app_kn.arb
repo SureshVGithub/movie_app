@@ -1,0 +1,20 @@
+{
+    
+    "login": "ಲಾಗಿನ್",
+    "emailHintText": "ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+    "passwordHintText": "ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
+    "submit": "ಸಲ್ಲಿಸಿ",
+    "emptyEmail": "ದಯವಿಟ್ಟು ಇಮೇಲ್ ನಮೂದಿಸಿ",
+    "invalidEmail": "ದಯವಿಟ್ಟು ವಾಲಿಡ್ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+    "emptyPassword": "ದಯವಿಟ್ಟು ಪಾಸ್‌ವರ್ಡ್ ನಮೂದಿಸಿ",
+    "passwordShouldContainSixCharacters": "ಪಾಸ್‌ವರ್ಡ್ 6 ಅಕ್ಷರಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿರಬೇಕು",
+    "loginSuccess": "ಯಶಸ್ವಿಯಾಗಿ ಲಾಗಿನ್ ಆಗಿದೆ",
+    "welcome": "ಸ್ವಾಗತ",
+    "topRated": "ಹೆಚ್ಚು ರೇಟೆಡ್",
+    "playingNow": "ಈಗ ಆಡುತ್ತಿದೆ",
+    "upcoming": "ಬರುತ್ತಿದೆ",
+    "popular": "ಜನಪ್ರಿಯ",
+    "settings": "ಸೆಟ್ಟಿಂಗುಗಳು",
+    "changeLanguage": "ಅಪ್ಲಿಕೇಶನ್ ಭಾಷೆ ಬದಲಾಯಿಸಿ",
+    "theme": "ಅಪ್ಲಿಕೇಶನ್ ಥೀಮ್"
+}

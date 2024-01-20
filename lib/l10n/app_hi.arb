@@ -1,0 +1,20 @@
+{
+   
+    "login": "लॉगिन",
+    "emailHintText": "अपना ईमेल दर्ज करें",
+    "passwordHintText": "अपना पासवर्ड दर्ज करें",
+    "submit": "प्रस्तुत करें",
+    "emptyEmail": "कृपया ईमेल दर्ज करें",
+    "invalidEmail": "कृपया वैध ईमेल दर्ज करें",
+    "emptyPassword": "कृपया पासवर्ड दर्ज करें",
+    "passwordShouldContainSixCharacters": "पासवर्ड 6 अक्षरों से अधिक होना चाहिए",
+    "loginSuccess": "सफलतापूर्वक लॉगिन हुआ",
+    "welcome": "स्वागत है",
+    "topRated": "शीर्ष रेटेड",
+    "playingNow": "अभी चल रहा है",
+    "upcoming": "आगामी",
+    "popular": "लोकप्रिय",
+    "settings": "सेटिंग्स",
+    "changeLanguage": "एप्लिकेशन भाषा बदलें",
+    "theme": "एप्लिकेशन थीम"
+}
